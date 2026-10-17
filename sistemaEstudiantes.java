@@ -2,7 +2,7 @@
 import java.util.ArrayList; //permite la creacion de listas dinamicas
 import java.util.Scanner; //permite el uso de la clase Scanner para leer datos desde la consola
 
-public class Main { //clase principal en la que se ejecuta el programa
+public class sistemaEstudiantes { //clase principal en la que se ejecuta el programa
 
     public static void main(String[] args) {
 
